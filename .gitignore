@@ -1,2 +1,5 @@
 target/zk_sign_verification.json
 target/zk_sign_verification.gz
+target/proof
+target/public_inputs
+target/vk
